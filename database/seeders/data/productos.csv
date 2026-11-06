@@ -1,0 +1,86 @@
+clave,descripcion,tipo,precio,costo
+PLU0001,Frutipastel Vainilla,Frutipastel,0,35
+PLU0002,Frutipastel Chocolate,Frutipastel,0,35
+PLU0003,Muffin,Pan,30,15
+PLU0004,Pay de Limon (vaso Mediano),Pay,0,35
+PLU0005,Postre de Manzana (Vaso Med ano),Postres,0,26.69
+PLU0006,Frutipastel Chocolate con Fresa y betun de Chocolate,Frutipastel,0,35
+PLU0007,Pay de Queso Crema,Pay,70,40.66
+PLU0008,Roles de canela,Pan,0,10
+PLU0009,Galletas Mantequilla,Galletas,0,6
+PLU0010,Pastel Chocolate (Rectangular),Pastel,70,36.3
+PLU0011,Pastel Chocolate (Vaso Mediano),Pastel,0,36.3
+PLU0012,Pay de Limon Chico,Pay,30,16.46
+PLU0013,Galletas Avena 3 Chicas Bolsa,Galletas,0,10
+PLU0014,Pastel Chocolate (Vaso Chico),Pastel,0,11
+PLU0015,Galletas Avena 1 Nuez en Bolsa Grande,Galletas,25,10
+PLU0016,Empanadas de Cajeta - Bolsa 5 piezas,Empanadas,0,13.6
+PLU0017,Bisquet,Pan,0,10
+PLU0018,CupCake,Pan,0,10
+PLU0019,Galleta LemonCat Naranja,Galletas,0,10
+PLU0020,Brownie,Pastel,30,16.5
+PLU0021,Agua 500ml,Bebidas,10,2.18
+PLU0022,Agua 1000 ml,Bebidas,20,4.47
+PLU0023,Coca cola 355ml,Bebidas,18,11
+PLU0024,Coca Cola 600mll,Bebidas,26,15.5
+PLU0025,Nectar del Valle Sabor Mango 413ml,Bebidas,0,13.83
+PLU0026,Powerade Ion 4 Sabor Moras 600ml,Bebidas,0,19.83
+PLU0031,Frappe Lemon,Frappe,0,20
+PLU0032,Frappe Capuchino Vainilla,Frappe,55,23.32
+PLU0033,Frappe Oreo,Frappe,55,23.32
+PLU0034,Frappe BlueBerry,Frappe,55,21.69
+PLU0035,Café Americano Chico 8oz,Café,0,10
+PLU0036,Frappe Fresa,Frappe,55,23.56
+PLU0037,Café Americano Med 16oz,Café,30,15
+PLU0038,Café Capuchino Caliente Sabor vainilla 16oz,Café,55,0
+PLU0039,Café Capuchino Caliente Sabor moka 16oz,Café,55,0
+PLU0041,Sandwich Waldorf,Sandwich,0,31.57
+PLU0042,Galletas Avena 1 en Bolsa Chica,Galletas,0,0
+PLU0043,Frappe Capuchino Moka,Frappe,55,0
+PLU0044,Frappe Mango,Frappe,55,0
+PLU0045,Frappe Frutos Rojos,Frappe,55,0
+PLU0046,Frappe Grande,Frappe,65,0
+PLU0047,Frappe Piña Colada,Frappe,0,0
+PLU0048,Frappe Jugo Verde,Frappe,0,0
+PLU0051,Mini Pastel Chocolate,Pastel,220,106.17
+PLU0052,Pastel Pedidos,Pedidos,0,0
+PLU0053,Pay de Queso Grande,Pay,240,0
+PLU0054,Pay de Limon Grande,Pay,150,0
+PLU0055,Pay de Crema (Rectangular),Pay,0,0
+PLU0056,Donas,Pan,0,10
+PLU0057,Pastel Chocolate Tornado,Pastel,85,0
+PLU0058,Pastel Avena con Platano Cuadrado,Pastel,70,0
+PLU0061,Postre de Manzana (Vaso Chico),Postres,30,13.35
+PLU0062,Pastel Zanahoria (Rectangular),Pastel,70,0
+PLU0063,Pastel 3 Leches (Rectangular),Pastel,70,0
+PLU0064,Galletas Avena 1 Arandano en Bolsa Grande,Galletas,0,0
+PLU0065,Pastel Fresa (Vaso Mediano),Pastel,0,0
+PLU0066,Empanadas de Piña - Bolsa 5 piezas,Empanadas,0,13.6
+PLU0067,Empanadas de Cajeta con Azucar Glass- Bolsa 5 piezas,Empanadas,0,13.6
+PLU0068,Mini Pastel Frutos Rojos,Pastel,220,106.17
+PLU0069,Mini Pastel Tornado,Pastel,240,106.17
+PLU0070,Galletas Macaron,Galletas,0,0
+PLU0071,Cheescake Fresa,Postres,0,0
+PLU0072,Postre de Manzana Grande,Pedidos,180,0
+PLU0073,Pay de Crema (Rebanada),Pay,0,0
+PLU0074,Galleta Alfajores,Galletas,0,0
+PLU0075,Pastel Grande,Pastel,580,0
+PLU0076,Café Frio Latte,Café,55,0
+PLU0077,Pastel de Elote,Pastel,70,0
+PLU0078,Pastel Avena con Platano Chico,Pastel,0,0
+PLU0079,Pastel Zanahoria Chico,Pastel,0,0
+PLU0080,Pastel Pay de Queso Chico,Pay,0,0
+PLU0081,Pastel Chocolate Chico,Pastel,0,0
+PLU0082,Palomitas Bolsa,Botana,0,0
+PLU0083,Jugos DellValle,Jugos,0,0
+PLU0084,Gelatina en Cubos,Postre,0,20
+PLU0085,Galletas Avena 1 en Bolsa Mediana,Galletas,0,10
+PLU0086,Pastelito Helado de Oreo,Helado,45,21
+PLU0087,Pastelito Helado de Pay de Queso,Helado,0,21
+PLU0088,Pastelito Helado de Fresa,Helado,0,21
+PLU0089,CheeseCake Oreo,Pastel,230,160
+PLU0090,CheeseCake Lupo Individual,Pastel,115,85
+PLU0091,Brookies,Pastel,35,20
+PLU0092,Galletas Avena Bolsa con 2 galletas chicas,Galletas,20,0
+PLU0093,Pastel Mediano,Pastel,480,0
+PLU0094,Pastel Avena Redondo,Pastel,220,0
