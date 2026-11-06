@@ -22,7 +22,8 @@ class DatabaseSeeder extends Seeder
         ];
 
         foreach ($usuarios as $u) {
-            User::updateOrCreate(['username' => $u['username']], $u + ['activo' => true]);
+            // firstOrCreate: si el usuario ya existe no se toca (no se resetea su contraseña)
+            User::firstOrCreate(['username' => $u['username']], $u + ['activo' => true]);
         }
 
         $archivo = database_path('seeders/data/productos.csv');
@@ -34,7 +35,8 @@ class DatabaseSeeder extends Seeder
         $encabezado = fgetcsv($fh);
         while (($fila = fgetcsv($fh)) !== false) {
             $d = array_combine($encabezado, $fila);
-            Articulo::updateOrCreate(
+            // firstOrCreate: si el artículo ya existe no se cambian sus precios
+            Articulo::firstOrCreate(
                 ['clave' => trim($d['clave'])],
                 [
                     'descripcion' => trim($d['descripcion']),
